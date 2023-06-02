@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Timed Rotation",
+    "description": "Choose a time interval of 2-5 minutes"
+  },
+  {
+    "title": "TDD Rotation",
+    "description": "Rotate after each step in a TDD cylcle"
+  },
+  {
+    "title": "Switching Ping Pong",
+    "description": "In this rotation Style, the first person has to write a failing test.\n\nAfter that the second person has to write an production code which makes the testsuite pass. After that the second person writes a failing test.\n\nThe next person repeats."
+  },
+  {
+    "title": "Baby Steps",
+    "description": "Choose a time interval of 2-5 minutes, but if the tests fail after the interval, all code written in this interval must be reverted."
+  },
+  {
+    "title": "Soft Steeplechase",
+    "description": "Choose a time interval of 2-5 minutes, but if the tests fail after the timeslot, all code written in this slot must be reverted. After a round without revert, the time is decreased until 2 minutes."
+  },
+  {
+    "title": "test && commit || revert",
+    "description": "Whenever the testsuite is run, the roles change. If any test is red, all changes since the last rotation must be reverted."
+  },
+  {
+    "title": "Hard Steeplechase",
+    "description": "Choose a time interval of 2-5 minutes, but if the tests fail after the timeslot, all code written in this slot must be reverted. After each round, the time is decreased until 2 minutes."
+  }
+]

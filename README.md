@@ -1,1 +1,1 @@
-# katamat_data
+This repository contains the data for a code kata generator.

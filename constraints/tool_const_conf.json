@@ -1,0 +1,22 @@
+[
+  {
+    "title": "No Computer",
+    "description": "Write and simulate all code without a computer. Paper, counters etc might be useful."
+  },
+  {
+    "title": "Ball-Board Constraint",
+    "description": "One partner controls the mouse, the other one the keyboard"
+  },
+  {
+    "title": "No Mouse",
+    "description": "Don´t use the mouse, just the keyboard."
+  },
+  {
+    "title": "Text Editor only",
+    "description": "Do not use an IDE, just a plain Texteditor."
+  },
+  {
+    "title": "Use a different IDE",
+    "description": "Use a an IDE different from the one you normaly use."
+  }
+]

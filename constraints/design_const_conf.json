@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Don´t abbrevate",
+    "description": "Don´t abbrevate names, even it is too long or often used. If a decent name is hard to find, there is problably something wrong."
+  },
+  {
+    "title": "Name everything",
+    "description": "Names should be provided for everything, even for lambda functions or anonymous classes. This will help apply DRY Principle."
+  },
+  {
+    "title": "Exhaustive conditionals",
+    "description": "No if without else. Switches should have all pathes."
+  }, 
+   {
+    "title": "Generic building blocks",
+    "description": "Try to use generic types for your functions as much as possible. For example don´t use list use collections..."
+  },
+  {
+    "title": "One level of indentation",
+    "description": "Each method or function cannot have more than one level of indentation."
+  },
+  {
+    "title": "Do not use else",
+    "description": "Avoid else and therby nested conditionals. Try an early return instead."
+  },
+  {
+    "title": "Keep all entities small",
+    "description": "No class can have over 50 lines and no package more then 10 classes. The idea is, that long files are hard to read, understand and maintain."
+  },
+  {
+    "title": "Short methods",
+    "description": "Choose a limit to the number of statements permitted in a method or function. The limit should be below 10. For verbose Languages (e.g. Java) this could be around 5 lines."
+  }
+]

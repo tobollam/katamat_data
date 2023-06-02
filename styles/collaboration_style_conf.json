@@ -1,0 +1,32 @@
+[
+  {
+    "collab_type":  "Mob",
+    "title": "Ensemble Programming",
+    "description": "A group of three or more people, with the roles Typist, Navigator, Ensemble."
+  },
+  {
+    "collab_type":  "Mob",
+    "title": "Strong Typist Ensemble",
+    "description": "A group of three or more people, with the role Typist, where the Typist types only when instructed clearly by the mob."
+  },
+  {
+    "collab_type":  "Mob",
+    "title": "Dictatorship Ensemble",
+    "description": "A group of three or more people, with the role Typist, where the Typist types only when instructed by a navigator.\n\nThe ensemble can only help, if directly encouraged by the navigator."
+  },
+  {
+    "collab_type":  "Mob",
+    "title": "Strong Style Ensemble",
+    "description": "A group of three or more people, with the role Typist, where the Typist types only when instructed by a navigator."
+  },
+  {
+    "collab_type":  "Pair",
+    "title": "Pair Programming",
+    "description": "A pair of two people, with the role Typist."
+  }, 
+  {
+    "collab_type":  "Pair",
+    "title": "Strong Style Pairing",
+    "description": "A pair of two people, with the role Typist and a Navigator. The Navigator can always ask the Typist for ideas."
+  }
+]

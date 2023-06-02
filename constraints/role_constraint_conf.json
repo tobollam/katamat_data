@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Mute Driver",
+    "description": "The Driver only types when instructed. The Driver is not allowed to ask or answer questions, or to talk at all.\nIf anything is unclear the driver raises both hands."
+  },
+  {
+    "title": "Lazy Driver",
+    "description": "The Driver tries to use the least amount of code to make tests pass."
+  }, 
+  {
+    "title": "Skeptic Driver",
+    "description": "The driver follows the rule of three. The driver only writes the simplest possible code to make a test pass. The driver *only* refactors or simplifies code if three test cases show a pattern."
+  }
+]
